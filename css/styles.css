@@ -1,0 +1,72 @@
+#title{
+    background-color: #f0e6e7;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid{
+    padding: 0% 5%;
+    
+}
+img{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    /* line-height: 1; */
+    font-weight: bold;
+    font-size: 2rem;
+}
+.homepage-img{
+    /* rotate: 15deg; */
+    transform: rotate(15deg);
+    margin-top: 30px;
+    width: 60%;
+}
+.row{
+    margin-top: 30px;
+}
+.nav-item{
+    padding-right: 18px;
+}
+.nav-link{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+/* h1{
+    margin-left: 60px;
+}*/
+.download-button{
+    margin-top: 40px;
+    margin-right: 2%;
+} 
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+
+}
+.fonty{
+    color: rgb(168, 26, 26);
+    margin-bottom: 1rem;
+}
+.fonty:hover{
+    color: rgb(123, 182, 222);
+}
+#testimonials{
+    padding: 7% 15%;
+    background-color: #f0e6e7;;
+}
+h2{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+   
+}
+.image-selector{
+    width: 80%;
+    margin-left: 33px;
+    
+}
